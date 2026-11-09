@@ -12,7 +12,7 @@ Prototipo de un centro de eventos en Talca. Las fotografías, el logotipo y los 
    ```
 
 3. Abre **http://127.0.0.1:8000**. Si el puerto está ocupado, ejecuta `python app.py --port 8080` y abre el enlace que imprime la terminal.
-4. Para editar el diseño o el contenido, modifica `docs/index.html`, guarda y actualiza el navegador. Para detener el servidor, pulsa **Ctrl+C**.
+4. Para editar el diseño o el contenido, modifica `docs/jardin-de-olivos/index.html`, guarda y actualiza el navegador. Para detener el servidor, pulsa **Ctrl+C**.
 
 El servidor utiliza la biblioteca estándar de Python. En macOS o Linux puede que el comando sea `python3 app.py`.
 
@@ -38,4 +38,4 @@ git push -u origin main
 
 Con GitHub Free, usa un repositorio público. Abre el repositorio y entra en **Settings → Pages**. Elige **Deploy from a branch**, selecciona **main** y **/docs**, y pulsa **Save**. Cuando termine la publicación, abre **Visit site** y copia la URL para enviarla. Puedes apagar el servidor local.
 
-Para actualizar la página, edita `docs/index.html` y sube los cambios a la rama `main`.
+Para actualizar la página, edita `docs/jardin-de-olivos/index.html` y sube los cambios a la rama `main`.
