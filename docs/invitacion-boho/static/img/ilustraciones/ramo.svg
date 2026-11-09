@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 620" fill="none">
+  <!-- Ramo ilustrado con pampas, hojas de olivo y flores secas. -->
+  <g stroke-linecap="round"><g stroke="#7b8069" stroke-width="3"><path d="M234 600q-24-210-67-460M237 605q16-250 93-475M237 603q-28-230-128-346M242 594q11-155 14-439M233 604q48-190 152-273M230 609q-73-182-153-248"/></g><g stroke="#a8a080" stroke-width="2.5"><path d="M232 592Q249 323 230 62M231 602Q201 408 312 217M236 610Q181 417 143 334"/></g></g>
+  <g fill="#9a9d80"><ellipse cx="126" cy="265" rx="19" ry="47" transform="rotate(-43 126 265)"/><ellipse cx="174" cy="289" rx="17" ry="42" transform="rotate(42 174 289)"/><ellipse cx="145" cy="200" rx="16" ry="42" transform="rotate(-39 145 200)"/><ellipse cx="184" cy="226" rx="16" ry="45" transform="rotate(38 184 226)"/><ellipse cx="103" cy="352" rx="20" ry="51" transform="rotate(-40 103 352)"/><ellipse cx="169" cy="368" rx="17" ry="46" transform="rotate(39 169 368)"/><ellipse cx="315" cy="310" rx="18" ry="49" transform="rotate(40 315 310)"/><ellipse cx="287" cy="355" rx="17" ry="45" transform="rotate(-31 287 355)"/><ellipse cx="349" cy="233" rx="15" ry="43" transform="rotate(36 349 233)"/><ellipse cx="299" cy="247" rx="16" ry="43" transform="rotate(-39 299 247)"/></g>
+  <g fill="#b6af92"><ellipse cx="252" cy="167" rx="16" ry="46" transform="rotate(19 252 167)"/><ellipse cx="293" cy="206" rx="17" ry="40" transform="rotate(49 293 206)"/><ellipse cx="209" cy="258" rx="17" ry="48" transform="rotate(-35 209 258)"/><ellipse cx="86" cy="394" rx="12" ry="35" transform="rotate(-30 86 394)"/><ellipse cx="374" cy="330" rx="13" ry="40" transform="rotate(45 374 330)"/></g>
+  <!-- Espigas de pampas, formadas por pequeñas hebras orgánicas. -->
+  <g fill="#d3b9a0"><path d="M230 62C180 8 190 0 229 6c35 8 52 40 9 65-2 7-10 3-8-9Z"/><path d="M323 139c-6-56 20-79 42-53 22 27-10 57-38 65Z"/><path d="M165 140c-49-27-47-60-20-71 33-12 51 22 29 73Z"/></g>
+  <g stroke="#dcc6a8" stroke-width="3" stroke-linecap="round" opacity=".95"><path d="m228 76-18-63m21 54 5-55m-7 48 22-46m-84 123-22-54m16 39 1-56m5 47 18-34m148 69 15-55m-9 52 30-40m-32 35 0-53"/></g>
+  <!-- Pequeñas flores cálidas. -->
+  <g fill="#ba816d"><circle cx="109" cy="248" r="17"/><circle cx="135" cy="229" r="15"/><circle cx="101" cy="216" r="13"/><circle cx="326" cy="342" r="17"/><circle cx="353" cy="365" r="14"/><circle cx="351" cy="332" r="13"/><circle cx="192" cy="345" r="17"/><circle cx="208" cy="325" r="14"/><circle cx="180" cy="314" r="12"/></g>
+  <g fill="#e6ccab"><circle cx="117" cy="228" r="8"/><circle cx="339" cy="348" r="8"/><circle cx="194" cy="329" r="7"/></g>
+  <!-- Cinta de lino del ramo. -->
+  <path d="M209 471q38 12 74 0l-8 52q-36 10-55-4Z" fill="#dac5a7" opacity=".95"/>
+  <path d="M238 515q-44 23-64 82l41-21 32-53 30 51 39 17q-23-56-65-77" fill="#bfa68a" opacity=".8"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 680">
+  <!-- Ilustración boho de Antofagasta: puesta de sol y costa norteña. -->
+  <defs><linearGradient id="s" x2="0" y2="1"><stop stop-color="#d0a195"/><stop offset=".75" stop-color="#f4d4b5"/><stop offset="1" stop-color="#efdfc7"/></linearGradient><linearGradient id="o" x2="0" y2="1"><stop stop-color="#829f9c"/><stop offset="1" stop-color="#5d7774"/></linearGradient><filter id="g"><feTurbulence type="fractalNoise" baseFrequency=".06" numOctaves="3"/><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="linear" slope=".1"/></feComponentTransfer></filter></defs>
+  <rect width="800" height="680" fill="url(#s)"/>
+  <circle cx="453" cy="250" r="105" fill="#ffe5c5" opacity=".9"/>
+  <path d="M0 371 154 288 286 363 421 236 594 348 714 270 800 331v349H0Z" fill="#cf9d88"/>
+  <path d="M0 435 152 367 235 425 352 359 472 414 634 320 800 379v301H0Z" fill="#bb816e"/>
+  <path d="M0 440c106-28 184-14 294 9 157 35 262 6 506-8v239H0Z" fill="url(#o)"/>
+  <path d="M0 474c150-21 229-1 324 8 149 14 284-19 476-2M0 532c152-20 251 13 390 11 142-1 270-28 410-19M0 592c150-27 275-3 407 3 181 9 257-21 393-17" stroke="#e9e6d7" stroke-width="3.5" fill="none" opacity=".52"/>
+  <path d="M0 648c114-11 251-48 404-12 151 36 295-22 396-25v69H0Z" fill="#d6b499" opacity=".8"/>
+  <rect width="800" height="680" filter="url(#g)" opacity=".55"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 680">
+  <!-- Ilustración boho de Talca: precordillera, parras y valle verde. -->
+  <defs><linearGradient id="s" x2="0" y2="1"><stop stop-color="#c3c7bd"/><stop offset="1" stop-color="#eedbc0"/></linearGradient><linearGradient id="g" x2="0" y2="1"><stop stop-color="#a0a78b"/><stop offset="1" stop-color="#5d7561"/></linearGradient><filter id="t"><feTurbulence type="fractalNoise" baseFrequency=".05" numOctaves="3"/><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="linear" slope=".09"/></feComponentTransfer></filter></defs>
+  <rect width="800" height="680" fill="url(#s)"/>
+  <circle cx="581" cy="178" r="93" fill="#f6e3c7" opacity=".7"/>
+  <path d="M0 366 123 269 194 309 310 183 410 302 520 216 659 362 800 247v433H0Z" fill="#b7b5a4"/>
+  <path d="m253 229 57-46 49 57-31-15-20 8-24-13Z" fill="#efe5d5" opacity=".7"/>
+  <path d="M0 435c120-36 211-67 313-52 120 17 216-10 326-28 60-8 106-5 161-4v329H0Z" fill="#99a58f"/>
+  <path d="M0 498c133-43 248-38 371-5 99 26 232-12 429-39v226H0Z" fill="url(#g)"/>
+  <path d="M0 560c120-34 264-27 386 4 156 39 270-3 414-33v149H0Z" fill="#617b62"/>
+  <!-- Hileras de cultivo y árboles nativos. -->
+  <g stroke="#d8ceaa" opacity=".6" stroke-width="3" fill="none"><path d="M0 666 275 510M90 680 342 519M218 680 405 525M358 680 469 533M529 680 539 534M682 680 610 530"/></g>
+  <g fill="#536b52"><path d="M76 501h11v93H76Z"/><ellipse cx="81" cy="483" rx="36" ry="61"/><ellipse cx="50" cy="503" rx="25" ry="40"/><ellipse cx="113" cy="501" rx="27" ry="39"/><path d="M689 494h11v100h-11Z"/><ellipse cx="695" cy="471" rx="44" ry="65"/><ellipse cx="663" cy="496" rx="29" ry="37"/><ellipse cx="722" cy="490" rx="29" ry="41"/></g>
+  <g fill="#78906f" opacity=".8"><ellipse cx="81" cy="458" rx="23" ry="39"/><ellipse cx="694" cy="456" rx="31" ry="41"/></g>
+  <rect width="800" height="680" filter="url(#t)" opacity=".6"/>
+</svg>
